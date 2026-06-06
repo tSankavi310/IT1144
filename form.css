@@ -1,0 +1,23 @@
+body{
+	font-family:Arial;
+	text-align:center;
+	margin-top:50px;
+}
+form{
+	width:300px;
+	margin:auto;
+}
+input{
+	width:100%;
+	padding:8px;
+	margin:10px 0;
+}
+button{
+	padding:8px 20px;
+}
+#message{
+	color:green;
+	margin-top:15px;
+	font-weight:bold;
+	
+}
